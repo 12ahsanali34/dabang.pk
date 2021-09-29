@@ -1,0 +1,2778 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header-main{
+    background-color: rgb(90, 90, 202);
+}
+.header-main .header{
+    display: flex;
+    padding: 0;
+}
+.header-main .header img{
+    height: 35px;
+    width: 110px;
+    margin-top: 8px;
+    
+}
+.header-main .header .img2{
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    width: 30px;
+    
+}
+.header-main .header h5{
+    margin-left: 10px;
+    margin-top: 25px;
+    color: rgb(248, 242, 242);
+    font-size: 14px;
+}
+.header-main .header2{
+    display: flex;
+}
+.header-main .header2 h5{
+    color: white;
+    margin-top:25px ;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.header-main .header2 .icon1{
+    font-size: 22px;
+    margin-left: 15px;
+    margin-top: 20px;
+    color: white;
+}
+.header-main .header2 .icon2{
+    font-size: 22px;
+    margin-left: 18px;
+    margin-top: 20px;
+    color: white;
+}
+.header-main .header2 .icon3{
+    font-size: 22px;
+    margin-left: 18px;
+    margin-top: 20px;
+    color: white;
+}
+.header-main .header2 input{
+    height: 40px;
+    width: 100%;
+    outline: none;
+    padding-left: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.image4{
+    width: 100%;
+}
+.images5{
+    width: 100%;
+}
+@media screen and (min-width:1024px) and (max-width:1366px){
+        
+.movies .browse .browse2 h6 {
+    font-size: 10px !important;
+}
+}
+@media screen and (min-width:320px) and (max-width:600px) {
+    .movies .browse .browse2{
+        margin-top: 20px;
+    }
+    .wallpaper .modles h2{
+        font-size: 15px !important;
+        font-weight: bolder !important;
+    }
+    .port{
+        padding: 0 !important;
+        width: 80% !important;
+    }
+    .paki {
+        width: 80% !important;
+    }
+    .tv-shows{
+        width: 100% !important;
+        padding: 0 !important;
+    }
+    .opera .opera-1{
+        padding-right: 100px !important;       
+    }
+    .movies h4{
+        font-size: 12px !important;
+    }
+    .movies .anker a{
+        font-size: 6px !important;
+        margin:0 !important;
+        padding: 0 5px !important;
+        transition: .3s;
+    }
+    .movies .anker a:hover{
+        font-size: 7px !important;
+    }
+    
+    .movies h2{
+        font-size: 25px;
+        padding-left: 15px !important;
+    }
+    .browse .browse2 h6{
+        font-size: 8px!important;
+    }
+    .movies .browse .browse2 h6{
+        font-size: 8px!important;
+    }
+    .movies .browse .browse1 input{
+        font-size: 9px!important;
+        width: 200px !important;
+    }
+    .header-main .header .img1{
+        height: 20px !important;
+        width: 40px !important;
+        margin-left: 5px !important;
+        margin-top: 15px;
+    }
+    .header-main .header .h5{
+        margin-left: 8px !important;
+        font-size: 7px !important;
+        margin-top: 25px !important;
+    }
+    .header-main .header .img2{
+        height: 10px !important;
+        width: 13px !important;
+        float: right !important;
+        margin-left: 5px;
+    }
+    .header-main .header h5{
+        font-size: 7px !important;
+        margin-top: 25px;
+        margin-left: 5px !important;
+    }
+    .header-main .header2 h5{
+        display: none !important;
+    }
+    .header-main .header2 .icon1{
+        font-size: 14px !important;
+        margin-left: 1px !important;
+        margin-top: 25px;
+    }
+    .header-main .header2 .icon2{
+        font-size: 14px !important;
+        margin-left: 10px !important;
+        margin-top: 25px;
+    }
+    .header-main .header2 .icon3{
+        font-size: 14px !important;
+        margin-left: 10px !important;
+        margin-top: 25px;
+    }
+    .header-main .header2 input{
+        font-size: 6px !important;
+        padding-left: 1px !important;
+        height: 25px !important;
+        margin-top: 20px;
+        margin-left: 10px !important;
+    }
+
+}
+@media screen and (min-width:320px) and (max-width:600px) {
+    .tv-shows .opera .opera-1{
+        display: flex !important;
+        justify-content: center !important;
+        margin-top: 20px !important;
+    }
+ 
+    .tv-shows .opera .opera1{
+        padding-top: 20px !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    .tv-shows .opera .opera-1 .btns{
+        font-size: 6px !important;
+    }
+    .tv-shows .opera .opera1 .a{
+        font-size: 9px !important;
+    }
+    .ali .abc{
+        font-size: 11px;
+    }
+    .features .features1 a{
+        font-size: 7px;
+    }
+    .features .features2 a{
+        font-size: 7px;
+    }
+  
+    .tv-shows .opera .opera-3{
+        margin-top: 20px !important;
+    }
+    .gallery .opera .opera-3{
+        margin-top: 20px !important;
+        margin: auto !important;
+    }
+    .tv-shows .indian:hover{
+        padding-left: 200px !important;
+    
+    }
+    .tv-shows .pakistani:hover{
+        padding-left: 200px !important;
+    
+    }
+
+    .tv-shows .hollywood:hover{
+        padding-left: 200px !important;
+    
+    }
+    .tv-shows .sports:hover{
+        padding-left: 200px !important;
+    
+    }
+    .tv-shows .wrestling:hover{
+        padding-left: 200px !important;
+    
+    }
+  
+
+    
+}
+@media screen and (min-width:601px) and (max-width:991px) {
+    .tv-shows  .opera-1{
+        margin-top: 20px !important;
+    }
+    .tv-shows .opera .opera-1 .opera-3 h6{
+        font-size: 10px!important;
+    }
+    
+    .tv-shows .opera .opera-3{
+        margin-top: 20px !important;
+        
+      } 
+      .tv-shows .pakistani:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .indian:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .pakistani:hover{
+        padding-left: 450px !important;
+    
+    }
+
+    .tv-shows .hollywood:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .sports:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .wrestling:hover{
+        padding-left: 450px !important;
+    
+    }
+  
+
+    
+}
+
+@media screen and (min-width:601px) and (max-width:991px) {
+    .movies .browse .browse2{
+        margin-top: 20px;
+    }
+    .movies h4{
+        font-size: 12px !important;
+    }
+    .movies .anker a{
+        font-size: 9px !important;
+        margin:0 !important;
+        padding: 0 5px !important;
+        transition: .3s;
+    }
+    .movies .anker a:hover{
+        font-size: 7px !important;
+    }
+    .movies .browse .browse2 h6{
+        font-size: 13px!important;
+    }
+}
+.movies{
+    padding: 0 !important;
+    height:auto;
+    width: 100%;
+    position: relative;
+}
+.movies .hollywood{
+    background-color: purple !important;
+    width: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    border-bottom: solid 5px rgb(243, 35, 63);
+    transition: .5s;
+
+}
+.movies .anker a{
+    transition: .3s;
+}
+.movies .anker a:hover{
+    font-size: 14px;
+}
+
+
+.movies .hollywood .border{
+    border: none;
+}
+.movies .browse{
+    height: auto;
+    margin-top: 20px;
+    
+}
+.movies .browse .browse1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.movies .browse .browse2 h6{
+    font-size: 12px;
+}
+.movies .browse .browse1 input{
+    width: 240px;
+    font-size: 10px;
+    margin:0 5px;
+    height: 30px;
+    border: solid 2px black;
+	outline:none;
+}
+.movies .browse .browse1 button{
+    width: 140px;
+    font-size: 8px;
+    height: 30px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    transition: .3s;
+    outline: none;
+    cursor: pointer;
+}
+.movies .browse .browse1 button:hover{
+    background-color: purple;
+}
+.movies .browse .browse2{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+    
+    
+}
+.movies .mpage{
+    width: 100%;
+    margin: auto;
+    height: auto;
+    margin:40px 0 0 0 ;
+}
+.movies .mpage div{
+    padding: 0!important;
+}
+
+.movies .mpage .pl{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.movies .mpage img{
+    width: 100%;
+    transition: .5s;
+    margin-left: 13px;
+    cursor: pointer;
+    margin: 0!important;
+}
+/* .movies .mpage img:hover{
+    width: 94%;
+} */
+.movies .mpage video{
+    width: 100% !important;
+    transition: .5s;
+    cursor: pointer;
+}
+.movies .mpage video:hover{
+    width: 94%;
+}
+.movies .mpage .img{
+    width: 100%;
+    transition: .5s;
+    margin-left: 13px;
+    cursor: pointer;
+    margin: 0!important;
+}
+/* .movies .mpage .img:hover{
+    width: 73%;
+
+} */
+.movies .bollywood{
+    background-color: rgb(241, 40, 83) !important;
+    border-bottom: solid 5px black;
+    width: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    transition: .5s;
+}
+.movies .bollywood .border{
+    border: none;
+}
+.movies .lollywood{
+    background-color: rgb(245, 114, 62) !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    transition: .5s;
+}
+.movies .lollywood .border{
+    border: none;
+}
+
+.footer{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(25, 24, 32);
+    height: auto;
+    padding-bottom: 20px;
+    
+}
+.footer h6{
+    color: white;
+    margin-top: 10px;
+}
+.footer .f1{
+    display: flex;
+    margin-top: 40px;
+}
+.footer .f1 h1{
+    font-size: 27px;
+    color: white;
+    margin-right: 8px;
+}
+.footer .f1 .h1{
+    color: purple;
+}
+.footer .f2{
+    display: flex;
+    justify-content: center;
+}
+.footer input{
+    width: 80%;
+    padding-left: 5px;
+    border-radius: 5px;
+    margin: 6px 0 6px 25px;
+    font-size: 14px;
+    height: 30px;
+    outline: none;
+
+}
+.footer .input1{
+    height: 100px;
+    align-items:flex-start !important;
+}
+.movies .bmusic{
+    background-color: rgb(99, 99, 224) !important;
+    border-bottom: solid 5px rgb(0, 255, 115);
+    width: 100%;
+    transition: .5s;
+    padding-left: 20px;
+    height: 50px;
+}
+.movies .shooter{
+    background-color: rgb(151, 185, 247) !important;
+    width: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    border-bottom: solid 5px rgb(243, 35, 63);
+    transition: .5s;
+}
+
+.movies .shooter .border{
+    border: none;
+}
+.movies .sports{
+    background-color: rgb(0, 255, 128) !important;
+    width: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    border-bottom: solid 5px rgb(104, 144, 255);
+    transition: .5s;
+}
+
+.movies .sports .border{
+    border: none;
+}
+@media screen and (min-width:992px) and (max-width:1200px){
+    .tv-shows .opera .opera-1{
+        margin-top: 20px !important;
+    }
+    .tv-shows .opera .opera-3{
+        margin-top: 20px !important;
+    }
+    .gallery .opera .opera-3{
+        margin-top: 20px !important;
+        margin: auto !important;
+    }
+    .tv-shows .opera  .opera-3 h6{
+        font-size: 10px!important;
+    }
+    .tv-shows .opera{
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+      
+    
+        
+    }
+    .tv-shows .opera .opera-1{
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    
+    }
+    .tv-shows .opera .opera-1 input{
+        width: 170px !important;
+        margin-left: auto !important;
+        font-size: 8px !important;
+        margin:0 ;
+        height: 30px;
+        border: solid 2px black;
+        outline:none;
+    }
+    .tv-shows .opera .opera-1 button{
+        width: 120px !important;
+        font-size: 8px !important;
+    
+        height: 30px;
+        border: none;
+        background-color: black;
+        color: white;
+        border-radius: 3px;
+        transition: .3s;
+        outline: none;
+        cursor: pointer;
+    }
+    .tv-shows .opera .opera-1 button:hover{
+        background-color: purple;
+    }
+    .tv-shows .opera .opera-3{
+        width: 100% !important;
+        height: auto;
+        display: flex !important;
+        align-items: center !important;
+        cursor: pointer !important;
+        
+    }
+    .tv-shows .opera .opera-3 h6{
+        font-size: 10px !important;
+        margin-left: 0 !important;
+    }
+    .tv-shows .pakistani:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .indian:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .pakistani:hover{
+        padding-left: 450px !important;
+    
+    }
+
+    .tv-shows .hollywood:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .sports:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .wrestling:hover{
+        padding-left: 450px !important;
+    
+    }
+   
+}
+@media screen and (min-width:320px) and (max-width:600px) {
+    .tv-shows .opera .opera-1{
+        margin-top: 20px !important;
+    }
+    .tv-shows .opera .opera-3{
+        margin-top: 20px !important;
+    }
+    .gallery .opera .opera-3{
+        margin-top: 20px !important;
+        margin: auto !important;
+    }
+    .tv-shows .indian:hover{
+        padding-left: 200px !important;
+    
+    }
+    .tv-shows .pakistani:hover{
+        padding-left: 200px !important;
+    
+    }
+
+    .tv-shows .hollywood:hover{
+        padding-left: 200px !important;
+    
+    }
+    .tv-shows .sports:hover{
+        padding-left: 200px !important;
+    
+    }
+    .tv-shows .wrestling:hover{
+        padding-left: 200px !important;
+    
+    }
+   
+}
+@media screen and (min-width:601px) and (max-width:991px) {
+    .tv-shows  .opera-1{
+        margin-top: 20px !important;
+    }
+    .tv-shows .opera .opera-1 .opera-3 h6{
+        font-size: 10px!important;
+    }
+    
+    .tv-shows .opera .opera-3{
+        margin-top: 20px !important;
+        
+      } 
+      .tv-shows .pakistani:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .indian:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .pakistani:hover{
+        padding-left: 450px !important;
+    
+    }
+
+    .tv-shows .hollywood:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .sports:hover{
+        padding-left: 450px !important;
+    
+    }
+    .tv-shows .wrestling:hover{
+        padding-left: 450px !important;
+    
+    }
+    
+    
+}
+
+.tv-shows{
+    height:auto;
+    width: 100%;
+    margin-bottom: 20px;
+    position: relative;
+}
+.tv-shows .hollywood{
+    background-color: purple !important;
+    width: 100% !important;
+    border-bottom: solid 5px rgb(243, 35, 63);
+    transition: .5s;
+}
+.tv-shows .hollywood .border{
+    border: none;
+}
+.tv-shows .indian{
+    background-color:#e77f40!important;
+    width: 100% !important;
+    border-bottom: solid 5px rgb(243, 35, 63);
+    transition: .5s;
+}
+.tv-shows .indian .border{
+    border: none;
+}
+.tv-shows .opera{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+  
+
+    
+}
+.tv-shows .opera .opera-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.tv-shows .opera .opera-1 input{
+    width: 240px;
+    margin-left: auto !important;
+    font-size: 11px;
+    margin:0 5px;
+    height: 30px;
+    border: solid 2px black;
+	outline:none;
+}
+.tv-shows .opera .opera-1 button{
+    width: 140px;
+    font-size: 12px !important;
+
+    height: 30px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    transition: .3s;
+    outline: none;
+    cursor: pointer;
+}
+.tv-shows .opera .opera-1 button:hover{
+    background-color: purple;
+}
+.tv-shows .opera .opera-3{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    
+}
+.tv-shows .opera .opera-3 h6{
+    font-size: 14px !important;
+    margin-left: 23px !important;
+}
+
+.tv-shows .pages{
+    width: 100%;
+    margin-top: 70px;
+    height: auto;
+   
+}
+.tv-shows .pages div{
+    padding: 0 !important;
+}
+.tv-shows .pages img{
+    width: 100%;
+    transition: .3s;
+    margin: auto;
+    cursor: pointer;
+    
+}
+/* .tv-shows .pages img:hover{
+    width:70% ;
+    transform: scale(1.6);
+} */
+.tv-shows .pakistani{
+    background-color: #ff5959 !important;
+    border-bottom: solid 5px black;
+    width: 100% !important;
+    transition: .5s;
+}
+
+.tv-shows .pakistani .border{
+    border: none;
+}
+.tv-shows .pakistani{
+    background-color: #ff5959 !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+
+.tv-shows .pakistani .border{
+    border: none;
+}
+.tv-shows .sports{
+    background-color:#5cbec9 !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+
+.tv-shows .sports .border{
+    border: none;
+}
+
+.tv-shows .wrestling{
+    background-color:#3f51b5 !important;
+    border-bottom: solid 5px black;;
+    width: 100% !important;
+    transition: .5s;
+}
+
+.tv-shows .wrestling .border{
+    border: none;
+}
+::after{
+    margin: 0;
+    box-sizing: border-box;
+}
+.tv-shows .wrestling .links{
+    position: relative;
+
+}
+.tv-shows .wrestling .links::after{
+    content: "";
+    position: absolute;
+    background-color: #ff3c78;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -1px;
+    transition: .3s;
+    
+
+}
+.tv-shows .wrestling .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.tv-shows .wrestling .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows .sports .links{
+    position: relative;
+
+}
+.tv-shows .sports .links::after{
+    content: "";
+    position: absolute;
+    background-color: #ff3c78;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -1px;
+    transition: .3s;
+    
+
+}
+.tv-shows .sports .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.tv-shows .sports .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows .indian .links{
+    position: relative;
+
+}
+.tv-shows .indian .links::after{
+    content: "";
+    position: absolute;
+    background-color: #ff3c78;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -1px;
+    transition: .3s;
+    
+
+}
+.tv-shows .indian .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.tv-shows .indian .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows .pakistani .links{
+    position: relative;
+
+}
+.tv-shows .pakistani .links::after{
+    content: "";
+    position: absolute;
+    background-color: white;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -1px;
+    transition: .3s;
+    
+
+}
+.tv-shows .pakistani .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.tv-shows .pakistani .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows .hollywood .links{
+    position: relative;
+
+}
+.tv-shows .hollywood .links::after{
+    content: "";
+    position: absolute;
+    background-color: yellow;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -1px;
+    transition: .3s;
+    
+
+}
+.tv-shows .hollywood .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.tv-shows .hollywood .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows  .opera .opera-1 .btns{
+    
+    position: relative;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    overflow: hidden;
+    transition: .2s;
+    font-weight: bolder;
+
+}
+.tv-shows  .opera .opera-1 .btns:hover{
+    color: rgba(0, 0,0, .8);
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3,0 0 40px #2196f3, 0 0 80px #2196f3;
+    transition-delay:.3s ;
+
+}
+/* .tv-shows  .opera .opera-1 .btns{
+    position: absolute;
+    display: block;
+} */
+/* .tv-shows  .opera .opera-1 .btns:nth-child(1){
+    top: 0;
+    left: -100;
+    width: 100%;
+    height: 2px;
+    background:linear-gradient(90deg,transparent #2196f3);
+}
+.tv-shows  .opera .opera-1 .btns:hover:nth-child(1){
+    left: 100%;
+    transition: .1s;
+}
+.tv-shows  .opera .opera-1 .btns:nth-child(3){
+    bottom:  0;
+    right: -100;
+    width: 100%;
+    height: 2px;
+    background:linear-gradient(270deg,transparent #2196f3);
+}
+.tv-shows  .opera .opera-1 .btns:hover:nth-child(3){
+    right: 100%;
+    transition: .1s;
+    transition-delay: 0.5s;
+}
+.tv-shows  .opera .opera-1 .btns:nth-child(2){
+    top: -100%;
+    right: 0;
+    width: 0;
+    height: 100%;
+    background:linear-gradient(180deg,transparent #2196f3);
+}
+.tv-shows  .opera .opera-1 .btns:hover:nth-child(2){
+    top: 100%;
+    transition-delay: 0.25s;
+}
+.tv-shows  .opera .opera-1 .btns:nth-child(4){
+    bottom: -100%;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background:linear-gradient(360deg,transparent #2196f3);
+}
+.tv-shows  .opera .opera-1 .btns:hover:nth-child(4){
+    bottom: 100%;
+    transition-delay: 0.75s;
+} */
+.gallery{
+    height:auto;
+    width: 100%;
+    padding: 0 !important;
+    margin-bottom: 20px;
+    position: relative;
+}
+.gallery .abstract{
+    background-color:#ff5959!important;
+    width: 100% !important;
+    border-bottom: solid 5px rgb(42, 243, 35);
+    transition: .5s;
+}
+.gallery .abstract:hover{
+    padding-left: 600px;
+
+}
+.gallery .abstract .border{
+    border: none;
+}
+.gallery .opera{
+    height: auto;
+    margin-top: 20px;
+    
+}
+.gallery .opera .opera-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gallery .opera .opera-1 input{
+    width: 240px;
+    font-size: 11px;
+    margin:0 5px;
+    height: 30px;
+    border: solid 2px black;
+	outline:none;
+    margin-left: 0 !important;
+}
+.gallery .opera .opera-1 button{
+    width: 140px;
+    font-size: 12px !important;
+    height: 30px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    transition: .3s;
+    outline: none;
+    cursor: pointer;
+}
+.gallery .opera .opera-1 button:hover{
+    background-color: purple;
+}
+.gallery .opera .opera-3{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.gallery .pages{
+    width: 100%;
+    margin: auto;
+    margin-top: 70px;
+    height: auto;
+    margin-left: 0 !important;
+    padding-left:0 !important ;
+   
+}
+.gallery .pages img{
+    width: 100%;
+    height: auto;
+
+    cursor: pointer;
+  
+    
+}
+
+.gallery .abstract .links{
+    position: relative;
+
+}
+.gallery .abstract .links::after{
+    content: "";
+    position: absolute;
+    background-color: white;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -1px;
+    transition: .3s;
+    
+
+}
+.gallery .abstract .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.gallery .abstract .links:hover::after{
+    width: 100%;
+
+}
+.gallery  .opera .opera-1 .btns{
+    
+    position: relative;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    overflow: hidden;
+    transition: .2s;
+    font-weight: bolder;
+
+}
+.gallery .opera .opera-3 h6{
+    font-size: 14px !important;
+    margin-left: 24px !important;
+}
+.gallery  .opera .opera-1 .btns:hover{
+    color: rgba(0, 0,0, .8);
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3,0 0 40px #2196f3, 0 0 80px #2196f3;
+    transition-delay:.3s ;
+
+}
+.tv-shows .events{
+   
+    height: auto;
+    background-color: #e77f40 !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.tv-shows .events:hover{
+}
+.tv-shows .events .border{
+    border: none;
+}
+.tv-shows .events .links{
+    position: relative;
+
+}
+.tv-shows .events .links::after{
+    content: "";
+    position: absolute;
+    background-color: #ff3c78;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.tv-shows .events .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.tv-shows .events .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows .movies{
+    height: auto !important;
+    background-color:#5cbec9 !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.tv-shows .movies h2{
+    padding-left: 20px;
+}
+.tv-shows .movies:hover{
+
+}
+
+.tv-shows .movies .border{
+    border: none;
+}
+
+
+.tv-shows .movies .links{
+    position: relative;
+
+}
+.tv-shows .movies .links::after{
+    content: "";
+    position: absolute;
+    background-color: #ff3c78;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.tv-shows .movies .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.tv-shows .movies .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows .nature{
+    height: auto;
+    background-color:#3f51b5 !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.tv-shows .nature:hover{
+
+}
+
+.tv-shows .nature .border{
+    border: none;
+}
+
+
+.tv-shows .nature .links{
+    position: relative;
+
+}
+.tv-shows .nature .links::after{
+    content: "";
+    position: absolute;
+    background-color: #ff3c78;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.tv-shows .nature .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.tv-shows .nature .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows .people{
+    height: auto;
+    background-color:#a62462 !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.tv-shows .people:hover{
+
+}
+
+.tv-shows .people .border{
+    border: none;
+}
+
+
+.tv-shows .people .links{
+    position: relative;
+
+}
+.tv-shows .people .links::after{
+    content: "";
+    position: absolute;
+    background-color: #fff;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.tv-shows .people .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.tv-shows .people .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows .games{
+    height: auto;
+    background-color:#52a3ff !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.tv-shows .games:hover{
+
+}
+
+.tv-shows .games .border{
+    border: none;
+}
+
+
+.tv-shows .games .links{
+    position: relative;
+
+}
+.tv-shows .games .links::after{
+    content: "";
+    position: absolute;
+    background-color: rgba(0, 0,0, .8);
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.tv-shows .games .links:hover{
+    color: rgb(238, 12, 4);
+}
+.tv-shows .games .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows .places{
+    height: auto;
+    background-color:#be6b99 !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.tv-shows .places:hover{
+
+}
+
+.tv-shows .places .border{
+    border: none;
+}
+
+
+.tv-shows .places .links{
+    position: relative;
+
+}
+.tv-shows .places .links::after{
+    content: "";
+    position: absolute;
+    background-color: rgba(0, 0,0, .8);
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.tv-shows .places .links:hover{
+    color: yellow;
+}
+.tv-shows .places .links:hover::after{
+    width: 100%;
+
+}
+.tv-shows .vehicles{
+    height: auto;
+    background-color:#3e3e7a !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.tv-shows .vehicles:hover{
+
+}
+
+.tv-shows .vehicles .border{
+    border: none;
+}
+
+
+.tv-shows .vehicles .links{
+    position: relative;
+
+}
+.tv-shows .vehicles .links::after{
+    content: "";
+    position: absolute;
+    background-color: rgba(0, 0,0, .8);
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.tv-shows .vehicles .links:hover{
+    color: rgb(0, 255, 0);
+}
+.tv-shows .vehicles .links:hover::after{
+    width: 100%;
+
+}
+.wallpaper{
+    width: 100% !important;
+    height:auto;
+    padding: 0 !important;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+
+.wallpaper .pages{
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+    height: auto;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+   
+}
+.wallpaper .pages img{
+    width: 100%;
+    height: auto;
+    
+    /* transition: .3s; */
+    cursor: pointer;
+    /* transition:transform .2s; */
+    
+}
+/* .wallpaper .pages img:hover{
+    width:70% ;
+    transform: scale(1.2);
+} */
+
+.wallpaper .d{
+    height: auto;
+    background-color:#7e0479 !important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.wallpaper .d:hover{
+    background-color: tomato !important;
+
+}
+
+.wallpaper .d .border{
+    border: none;
+}
+.wallpaper .d .links{
+    position: relative;
+
+}
+.wallpaper .d .links::after{
+    content: "";
+    position: absolute;
+    background-color:black;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.wallpaper .d .links:hover{
+    color: rgba(43, 255, 24, 0.8);
+}
+.wallpaper .d .links:hover::after{
+    width: 100%;
+
+}
+.wallpaper .abstract{
+    height: auto;
+    background-color:#ff5959!important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.wallpaper .abstract:hover{
+    
+    background-color: #3e3e7a  !important;
+
+}
+
+.wallpaper .abstract .border{
+    border: none;
+}
+.wallpaper .abstract .links{
+    position: relative;
+
+}
+.wallpaper .abstract .links::after{
+    content: "";
+    position: absolute;
+    background-color:black;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.wallpaper .abstract .links:hover{
+    color: rgba(24, 255, 36, 0.8);
+}
+.wallpaper .abstract .links:hover::after{
+    width: 100%;
+
+}
+.wallpaper .vehicles{
+    height: auto;
+    background-color:#e77f40!important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.wallpaper .vehicles:hover{
+   
+    background-color: rgb(253, 238, 27) !important;
+
+}
+
+.wallpaper .vehicles .border{
+    border: none;
+}
+.wallpaper .vehicles .links{
+    position: relative;
+
+}
+.wallpaper .vehicles .links::after{
+    content: "";
+    position: absolute;
+    background-color:black;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.wallpaper .vehicles .links:hover{
+    color: rgba(24, 255, 36, 0.8);
+}
+.wallpaper .vehicles .links:hover::after{
+    width: 100%;
+
+}
+.wallpaper .modles{
+    height: auto;
+    background-color:#3f51b5!important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.wallpaper .modles:hover{
+   
+    background-color:white !important;
+
+}
+
+.wallpaper .modles .border{
+    border: none;
+}
+.wallpaper .modles .links{
+    position: relative;
+
+}
+.wallpaper .modles .links::after{
+    content: "";
+    position: absolute;
+    background-color:black;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.wallpaper .modles .links:hover{
+    color: rgba(24, 255, 36, 0.8);
+}
+.wallpaper .modles .links:hover::after{
+    width: 100%;
+
+}
+.wallpaper .nature{
+    height: auto;
+    background-color:#a62462!important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.wallpaper .nature:hover{
+    
+    background-color: #ff3c78 !important;
+
+}
+
+.wallpaper .nature .border{
+    border: none;
+}
+.wallpaper .nature .links{
+    position: relative;
+
+}
+.wallpaper .nature .links::after{
+    content: "";
+    position: absolute;
+    background-color:black;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.wallpaper .nature .links:hover{
+    color: rgba(24, 255, 36, 0.8);
+}
+.wallpaper .nature .links:hover::after{
+    width: 100%;
+
+}
+.wallpaper .movies{
+    height: auto;
+    background-color:#52a3ff!important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.wallpaper .movies:hover{
+  
+    background-color: #3e3e7a !important;
+
+}
+
+.wallpaper .movies .border{
+    border: none;
+}
+.wallpaper .movies .links{
+    position: relative;
+
+}
+.wallpaper .movies .links::after{
+    content: "";
+    position: absolute;
+    background-color:black;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.wallpaper .movies .links:hover{
+    color: rgba(24, 255, 36, 0.8);
+}
+.wallpaper .movies .links:hover::after{
+    width: 100%;
+
+}
+.wallpaper .events{
+    height: auto;
+    background-color:#be6b99!important;
+    border-bottom: solid 5px rgb(70, 73, 255);
+    width: 100% !important;
+    transition: .5s;
+}
+.wallpaper .events:hover{
+   
+    background-color: #3e3e7a !important;
+
+}
+
+.wallpaper .events .border{
+    border: none;
+}
+.wallpaper .events .links{
+    position: relative;
+
+}
+.wallpaper .events .links::after{
+    content: "";
+    position: absolute;
+    background-color:black;
+    height: 3px;
+    width: 0;
+    left: 0;
+    top: 47px;
+    transition: .3s;
+    
+
+}
+.wallpaper .events .links:hover{
+    color: rgba(24, 255, 36, 0.8);
+}
+.wallpaper .events .links:hover::after{
+    width: 100%;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-main{
+    background-color: #3f51b5;
+    height: 60px;
+}
+.header-main .header{
+    display: flex;
+}
+.header-main .header .img1{
+    height: 30px;
+    width: 120px;
+    margin-top: 15px;
+    margin-left: 280px;
+}
+.header-main .header .h5{
+    margin-left: 130px;
+    margin-top: 25px;
+}
+.header-main .header .img2{
+    margin-left: 10px;
+    margin-top: 24px;
+    height:15px;
+    width: 22px;
+}
+.header-main .header h5{
+    margin-left: 10px;
+    margin-top: 25px;
+    color: white;
+    font-size: 14px;
+}
+.header-main .header2{
+    display: flex;
+}
+.header-main .header2 h5{
+    color: white;
+    margin-top:25px ;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.header-main .header2 .icon1{
+    font-size: 22px;
+    margin-left: 15px;
+    margin-top: 20px;
+    color: white;
+}
+.header-main .header2 .icon2{
+    font-size: 22px;
+    margin-left: 18px;
+    margin-top: 20px;
+    color: white;
+}
+.header-main .header2 .icon3{
+    font-size: 22px;
+    margin-left: 18px;
+    margin-top: 20px;
+    color: white;
+}
+.header-main .header2 input{
+    height: 40px;
+    width: 290px;
+    outline: none;
+    padding-left: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+@media screen and (min-width:300px) and (max-width:767px){
+    .header-main .header .img1{
+        height: 20px !important;
+        width: 40px !important;
+        margin-left: 5px !important;
+    }
+    .header-main .header .h5{
+        margin-left: 8px !important;
+        font-size: 7px !important;
+        margin-top: 25px !important;
+    }
+    .header-main .header .img2{
+        height: 10px !important;
+        width: 13px !important;
+        float: right !important;
+        margin-left: 5px;
+    }
+    .header-main .header h5{
+        font-size: 7px !important;
+        margin-top: 25px;
+        margin-left: 5px !important;
+    }
+    .header-main .header2 h5{
+        display: none !important;
+    }
+    .header-main .header2 .icon1{
+        font-size: 14px !important;
+        margin-left: 1px !important;
+        margin-top: 25px;
+    }
+    .header-main .header2 .icon2{
+        font-size: 14px !important;
+        margin-left: 10px !important;
+        margin-top: 25px;
+    }
+    .header-main .header2 .icon3{
+        font-size: 14px !important;
+        margin-left: 10px !important;
+        margin-top: 25px;
+    }
+    .header-main .header2 input{
+        font-size: 6px !important;
+        width:90px!important;
+        padding-left: 1px !important;
+        height: 25px !important;
+        margin-top: 20px;
+        margin-left: 10px !important;
+    }
+    .Religious .first-banner .bg{
+        width: 80% !important;
+    }
+    .Religious .first-banner2 .bg1{
+        width: 80% !important;
+    }
+    .Religious .first-banner3 .bg2{
+        width: 80% !important;
+    }
+    .Religious .first-banner4 .bg3{
+        width: 80% !important;
+    }
+    .Religious .first-banner2 .banner1 .link2{
+        margin-left: 40px;
+    }
+    .Religious .first-banner2 .banner1 .link3{
+        margin-left: 40px;
+    }
+    .Religious .first-banner2 .banner2 .link5{
+        margin-left: 40px;
+    }
+    .Religious .first-banner2 .banner2 .link6{
+        margin-left: 40px;
+    }
+    .Religious .first-banner2 .banner3 .link8{
+        margin-left: 40px;
+    }
+    .Religious .first-banner2 .banner3 .link9{
+        margin-left: 40px;
+    }
+    .ditionary .ads1 img{
+        width: 100%;
+    }
+    .ditionary2 .bg{
+        width: 100% !important;
+        margin-top: 30px !important;
+    }
+    .ditionary3 img{
+        margin-top: 20px !important;
+    }
+    .Downloads .ads1 img{
+        width: 100% !important;
+    }
+    .Downloads2 .bg{
+        width: 100% !important;
+        margin-top: 30px !important;
+    }
+    .Religious .ads1{
+        margin-left: 70px;
+    }
+    .Religious .ads1 img{
+        width: 90% !important;
+    }
+    .first-banner4 .banner1 {
+        margin-left: 20px !important;
+    }
+    .first-banner4 .banner2 {
+        margin-left: 20px !important;
+    }
+    .first-banner4 .banner3 {
+        margin-left: 20px !important;
+    }
+    .Religious .ads1 img{
+        margin-left: 0 !important;
+    }
+}
+@media screen and (min-width:1024px) and (max-width:1336px){
+    .header .img1{
+        margin-left: 10px !important;
+    }
+    .header2 i{
+        margin-left: 10px !important;
+    }
+    .header2 input{
+        width: 50% !important;
+    }
+    .Religious .ads1{
+        margin-left: 450px;
+    }
+    .Religious .ads1 img{
+        width: 70% !important;
+        display: none;
+    }
+    .Religious .first-banner .bg{
+        width: 80% !important;
+    }
+    .Religious .first-banner2 .bg1{
+        width: 80% !important;
+    }
+    .Religious .first-banner3 .bg2{
+        width: 80% !important;
+    }
+    .Religious .first-banner4 .bg3{
+        width: 80% !important;
+    }
+}
+    @media screen and (min-width:768px) and (max-width:1024px){
+        .header .img1{
+            margin-left: 10px !important;
+        }
+        .header .h5{
+            margin-left: 30px !important;
+        }
+        .header2 input{
+            width: 50% !important;
+            font-size: 10px;
+            padding-left: 5px !important;
+            margin-left: 10px!important;
+        }
+        .header2 i{
+            margin-left: 10px !important;
+        }
+        .header2 h5{
+           font-size: 10px !important;
+        }
+        .Religious .first-banner .bg{
+            width: 80% !important;
+        }
+        .first-banner4 .banner1 {
+            margin-left: 40px !important;
+        }
+        .first-banner4 .banner2 {
+            margin-left: 40px !important;
+        }
+        .first-banner4 .banner3 {
+            margin-left: 40px !important;
+        }
+        .Religious .first-banner .bg{
+            width: 100% !important;
+        }
+        .Religious .first-banner2 .bg1{
+            width: 74% !important;
+        }
+        .Religious .first-banner3 .bg2{
+            width: 74% !important;
+        }
+        .Religious .first-banner4 .bg3{
+            width: 74% !important;
+        }
+        .Religious .first-banner2 .banner1 .link2{
+            margin-left: 40px;
+        }
+        .Religious .first-banner2 .banner1 .link3{
+            margin-left: 40px;
+        }
+        .Religious .first-banner2 .banner2 .link5{
+            margin-left: 40px;
+        }
+        .Religious .first-banner2 .banner2 .link6{
+            margin-left: 40px;
+        }
+        .Religious .first-banner2 .banner3 .link8{
+            margin-left: 40px;
+        }
+        .Religious .first-banner2 .banner3 .link9{
+            margin-left: 40px;
+        }
+    }
+
+.Religious .first-banner .bg h5{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    font-size: 16px;
+    color: white;
+}
+.Religious .first-banner .bg{
+    height: 60px;
+    width: 850px;
+    background-color: #ff5959;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.Religious .first-banner a{
+    margin-left: 40px;
+    margin-top: 20px !important;
+    color: black;
+}
+.Religious .first-banner p{
+    margin-left: 40px;
+}
+
+.Religious .first-banner2 .bg1{
+    height: 60px;
+    width: 850px;
+    background-color: #e77f40;
+    margin: 5px 0 10px 40px;
+}
+.Religious .first-banner2 .bg1 h5{
+    margin-left: 20px;
+    padding-top: 20px;
+    font-size: 16px;
+    color: white;
+}
+.Religious .first-banner2 .link1{
+    height: 100px;
+    width: 283px;
+    margin-left: 40px;
+}
+.Religious .first-banner2 .link2{
+    height: 100px;
+    width: 283px;
+}
+.Religious .first-banner2 .link3{
+    height: 100px;
+    width: 283px;
+}
+.Religious .first-banner2 .link4{
+    height: 100px;
+    width: 283px;
+    margin-left: 40px;
+}
+.Religious .first-banner2 .link5{
+    height: 100px;
+    width: 283px;
+}
+.Religious .first-banner2 .link6{
+    height: 100px;
+    width: 283px;
+}
+.Religious .first-banner2 .link7{
+    height: 100px;
+    width: 283px;
+    margin-left: 40px;
+}
+.Religious .first-banner2 .link8{
+    height: 100px;
+    width: 283px;
+}
+.Religious .first-banner2 .link9{
+    height: 100px;
+    width: 283px;
+}
+.Religious .first-banner3 .bg2 h5{
+    margin-left: 20px;
+    padding-top: 20px;
+    font-size: 16px;
+    color: white;
+}
+.Religious .first-banner3 .bg2{
+    height: 60px;
+    width: 850px;
+    background-color: #3f51b5;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.Religious .first-banner3 .banner1 a{
+    margin-left: 40px;
+    margin-top: 20px !important;
+    color: black;
+}
+.Religious .first-banner3 .banner1 p{
+    margin-left: 40px;
+}
+.Religious .first-banner4 .bg3 h5{
+    margin-left: 20px;
+    padding-top: 20px;
+    font-size: 16px;
+    color: white;
+}
+.Religious .first-banner4 .bg3{
+    height: 60px;
+    width: 850px;
+    background-color: #a62462;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+@media screen and (min-width:1336px) and (max-width:1400px){
+    .Religious .first-banner2 .banner1{
+        display: flex !important;
+    }
+    .Religious .first-banner2 .banner2{
+        display: flex !important;
+    }
+    .Religious .first-banner2 .banner3{
+        display: flex !important;
+    }
+    .Religious .first-banner4 .banner1{
+        display: flex !important;
+    }
+    .Religious .first-banner4 .banner2{
+        display: flex !important;
+    }
+    .Religious .first-banner4 .banner3{
+        display: flex !important;
+    }
+    .ditionary .ads1 img{
+        margin-left: 430px;
+        width: 50%;
+    }
+    .ditionary2 .bg{
+        margin-left: 270px;
+    }
+    .ditionary2 .banner1{
+        margin-left:300px;
+        margin-top: 20px;
+    }
+    .Downloads .ads1 img{
+        margin-left: 430px !important;
+        width: 50% !important;
+    }
+    .Downloads2 .bg{
+        margin-left: 270px;
+    }
+    .Downloads2 p{
+        margin-left: 270px;
+    }
+    .Religious .ads1 img{
+        width: 55% !important;
+        margin-left: 400px !important;
+    }
+    .first-banner4 .banner1 {
+        margin-left: 40px !important;
+    }
+    .first-banner4 .banner2 {
+        margin-left: 40px !important;
+    }
+    .first-banner4 .banner3 {
+        margin-left: 40px !important;
+    }
+}
+.ditionary2 .bg{
+    height: 60px;
+    width: 770px;
+    background-color: #3f51b5;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    padding-top: 1px;
+}
+
+.ditionary2  .bg h6{
+    margin-left: 20px;
+    margin-top: 17px;
+    color: white;
+}
+
+.ditionary2 .banner1 h6{
+    font-weight:400;
+}
+.ditionary2 .banner1 input{
+    width: 37%;
+    outline:none;
+    border:lightgray 1px solid;
+    height: 30px;
+}
+.ditionary2 .banner1 button{
+    width:100px;
+    border:lightgray 1px solid;
+    background-color: white;
+    height: 30px;
+}
+.ditionary2 .banner1 p{
+    margin-top: 40px;
+}
+.ditionary3 img{
+    margin-top: 70px;
+}
+.Downloads2 .bg{
+    height: 60px;
+    width: 770px;
+    background-color: #3f51b5;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    padding-top: 1px;
+}
+.Downloads2  .bg h6{
+    margin-left: 20px;
+    margin-top: 17px;
+    color: white;
+}
+.Downloads3 .img1{
+    margin-top: 70px;
+}
+.footer{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(25, 24, 32);
+    height: auto;
+    padding-bottom: 20px;
+    
+}
+.footer h6{
+    color: white;
+    margin-top: 10px;
+}
+.footer .f1{
+    display: flex;
+    margin-top: 40px;
+}
+.footer .f1 h1{
+    font-size: 27px;
+    color: white;
+    margin-right: 8px;
+}
+.footer .f1 .h1{
+    color: purple;
+}
+.footer .f2{
+    display: flex;
+    justify-content: center;
+}
+.footer input{
+    width: 80%;
+    padding-left: 5px;
+    border-radius: 5px;
+    margin: 6px 0 6px 25px;
+    font-size: 14px;
+    height: 30px;
+    outline: none;
+
+}
+.footer .input1{
+    height: 100px;
+    align-items:flex-start !important;
+}
+.features{
+    width: 100% !important;
+    margin: 0!important;
+    padding-top: 18px !important;
+    background-color: #0066b9;
+    border-bottom: solid 5px rgb(235, 110, 110);
+    height: auto !important;
+}
+.features1{
+    margin: 0!important;
+    padding: 0 !;
+}
+.features a{
+    height: 100%;
+    font-size: 11px;
+    margin-bottom: 0 !important;
+    color: white;
+}
+.features a:hover{
+    background-color: white;
+    color: black;
+}
+.banner{
+    width: 100% !important;
+    margin: 0!important;
+}
+.banner .banner1{
+    background-color:#0066b9 ;
+    padding: 0 !important;
+    border-bottom: solid 5px rgb(235, 110, 110);
+}
+.banner .banner1 h5{
+    color: white;
+    margin-left: 25px;
+    padding-bottom: 50px;
+    border-bottom: solid 2px white;
+}
+.banner .banner1 h6{
+    color: white;
+    margin-left: 25px;
+    padding-top: 20px ;
+}
+.banner .banner1 img{
+    height: 100%;
+    width: 100%;
+}
+.banner .banner1 .h6{
+    color: white;
+    margin-left: 25px;
+    padding: 0 !important;
+}
+.banner .banner2  img{
+    height: 50px !important;
+    width: 50px !important;
+    margin: 12px 0 !important;
+}
+.banner .banner2 .h6{
+    padding-top: 10px !important;
+}
+.banner .banner2 .h7{
+    padding-bottom: 10px !important;
+    border-bottom: solid 1px rgb(99, 99, 99);
+}
+.cards{
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+.cards .row0{
+    margin: 20px 0 0 0 !important;
+    width: 100% !important;
+    height: 50px !important;
+
+    background-color: rgb(62, 62, 107);
+    border-bottom: solid 5px darkkhaki;
+}
+.cards .row1{
+    margin-top: 20px !important;
+    width: 100% !important;
+    height: 50px !important;
+
+    background-color: rgb(62, 62, 107);
+    border-bottom: solid 5px darkkhaki;
+}
+.cards .p2{
+    margin-top: 10px;
+}
+.cards .p2 h6{
+    font-size: 13px !important;
+    border-bottom: solid .5px rgb(190, 188, 188);
+    cursor: pointer;
+}
+.cards .p2 h6:hover{
+    color: rgb(223, 177, 161);
+}
+.cards .row2{
+    margin-top: 20px !important;
+    width: 100% !important;
+    height: 50px !important;
+
+    background-color:#3f51b5;
+    border-bottom: solid 5px rgb(255, 88, 138);
+}
+.cards .p4{
+    margin-top: 20px;
+}
+.cards .p4 h6{
+    font-size: 13px !important;
+    cursor: pointer;
+}
+.cards .p4 h6:hover{
+    color: rgb(223, 177, 161);
+}
+.cards .row3{
+    margin-top: 20px !important;
+    width: 100% !important;
+    height: 50px !important;
+
+    background-color:#fc0069;
+    border-bottom: solid 5px rgb(74, 216, 8);
+}
+.cards .row4{
+    margin-top: 20px !important;
+    width: 100% !important;
+    height: 50px !important;
+    background-color:#5cbec9;
+    border-bottom: solid 5px rgb(120, 128, 117);
+}
+.cards .p5{
+    margin-bottom: 20px !important;
+}
+.cards .row5{
+    margin-top: 20px !important;
+    width: 100% !important;
+    height: 50px !important;
+    background-color:#5cbec9;
+    border-bottom: solid 5px rgb(120, 128, 117);
+}
+.movies .web1{
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+.movies .webtv{
+    margin: 20px 0;
+}
+.movies .webtv1{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 0.5px rgb(175, 164, 164);
+}
+.banner{
+    width: 100% !important;
+}
+.banner .banner3{
+    padding: 0 !important;
+}
+.banner .banner3 img{
+    height: 110px;
+    width: 100%;
+    margin: 20px 0 !important;
+
+}
+.banner .banner4 .h6{
+    padding: 30px 0!important;
+    font-size: 19px;
+    font-weight: bolder;
+}
+.banner .banner4 .h7{
+    color: rgb(158, 149, 149);
+    padding-bottom: 32px !important;
+    border-bottom: solid 1px rgb(99, 99, 99);
+}
+.navbar-light .nav1 a{
+    transition: .5s;
+}
+.navbar-light .nav1 a:hover{
+    font-size: 18px;
+    border-bottom: solid 1px black;
+
+}
+.online{
+    height:auto;
+    width: 100%;
+    padding: 0 !important;
+    margin-bottom: 20px;
+    position: relative;
+}
+.online .hollywood{
+    background-color: purple !important;
+    width: 100% !important;
+    border-bottom: solid 5px rgb(243, 35, 63);
+    transition: .3s;
+}
+.online .hollywood:hover{
+    background-color: skyblue !important;
+    cursor: pointer;
+    border-bottom: solid 5px rgb(240, 243, 35);
+}
+.online .hollywood h6{
+    color: white;
+    font-size: 12px !important;
+    position: absolute !important;
+    right:10px !important;
+    transition: .3s;
+}
+.online .hollywood h6:hover{
+    color: rgba(0, 0,0, .8);
+    font-weight: bolder !important;
+    font-size: 14px !important;
+}
+.online .hollywood h6{
+    position: relative;
+
+}
+.online .hollywood h6::after{
+    content: "";
+    position: absolute;
+    background-color: rgb(26, 214, 36);
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -9px;
+    transition: .3s;
+    
+
+}
+.online .hollywood h6:hover{
+    color: rgba(0, 0,0, .8);
+}
+.online .hollywood h6:hover::after{
+    width: 100%;
+
+}
+.online .opera{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+  
+
+    
+}
+.online .opera .opera-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 !important;
+
+}
+.online .opera .opera-1 input{
+    width: 740px;
+    margin-left: auto !important;
+    font-size: 11px;
+    margin:0 5px;
+    height: 30px;
+    border: solid 1px rgb(179, 176, 171);
+    border-radius: 5px;
+	outline:none;
+    padding-left: 5px !important;
+}
+.online .opera .opera-1 .btns{
+    width: 140px;
+    font-size: 12px !important;
+    height: 30px;
+    border: none;
+    background-color: #7e0479 ;
+    color: white;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+}
+
+
+.online .hollywood .links{
+    position: relative;
+
+}
+.online .hollywood .links::after{
+    content: "";
+    position: absolute;
+    background-color: rgb(26, 214, 36);
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -1px;
+    transition: .3s;
+    
+
+}
+.online .hollywood .links:hover{
+    color: rgba(0, 0,0, .8);
+}
+.online .hollywood .links:hover::after{
+    width: 100%;
+
+}
+.online .pages{
+    width: 100%;
+    margin-top: 70px;
+    height: auto;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+   
+}
+.online .pages .img1{
+    width: 150px;
+    margin: auto;
+    cursor: pointer;
+    height: 200px;
+ 
+}
+
+.online .pages h6{
+    padding-top: 5px;
+    font-size: 11px;
+    font-weight: bold;
+    color: black;
+}
+.online .pages p{
+    font-size: 11px;
+    color: rgb(141, 137, 137);
+}
+.footer{
+    width: 100% !important;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(25, 24, 32);
+    height: auto;
+    
+}
+.footer h6{
+    color: white;
+    margin-top: 10px;
+}
+.footer .f1{
+    display: flex;
+    margin-top: 40px;
+}
+.footer .f1 h1{
+    font-size: 27px;
+    color: white;
+    margin-right: 8px;
+}
+.footer .f1 .h1{
+    color: purple;
+}
+.footer .f2{
+    display: flex;
+    justify-content: center;
+}
+.footer input{
+    width: 80%;
+    padding-left: 5px;
+    border-radius: 5px;
+    margin: 6px 0 6px 25px;
+    font-size: 14px;
+    height: 30px;
+    outline: none;
+
+}
+.footer .input1{
+    height: 100px;
+    align-items:flex-start !important;
+}
+@media screen and (min-width:320px) and (max-width:600px){
+    .online .opera{
+        position:absolute;
+        right: 15px !important;
+        margin-top: 30px !important;
+    }
+    .online h6 {
+        display: none;
+    }
+    .nav .links{
+        font-size: 6px !important;
+    }
+    .online .opera .opera-1 input{
+       width: 69% !important;
+       margin-left: 15px !important;
+       font-size: 9px !important;
+      
+    }
+    .online .opera .opera-1 .btns{
+        width: 30% !important;
+        font-size: 11px !important;
+        position: absolute;
+        left: 238px !important;
+    }
+    .nav{
+        position: absolute;
+        top: 176px !important;
+        padding-left: 0!important;
+    }
+    .online .box1{
+        padding-bottom: 50px !important;
+        padding-top: 100px !important;
+    }
+   
+    .online .box1 p{
+        padding-top: 4px;
+        letter-spacing: 0 !important;
+        font-size:9px !important;
+
+    
+    }
+    .nav .links{
+        margin-left: 0 !important;
+    }
+    .online{
+        width: 80% !important;
+        position: relative;
+    }
+    .online .hollywood h6{
+        font-size: 9px !important;
+    }
+    .online .hollywood h6:hover{
+        font-size: 9px !important;
+    }
+   
+}
+@media screen and (min-width:601px) and (max-width:991px){
+    
+    /* .online .opera .opera-1 .btns{
+        width: 100px !important;
+        font-size: 7px !important;
+      
+    } */
+       .online .opera .opera-1 input{
+        width:80% !important;
+       position: absolute;
+       left: 0 !important;
+      
+    }
+    .online .opera .opera-1 .btns{
+        width:20% !important;
+        font-size: 11px !important;
+        position: absolute;
+       right:0 !important;
+    }
+   
+    .nav{
+        
+        position: absolute;
+        top: 116px !important;
+    }
+    .online .box1 p{
+        padding-top: 4px;
+        letter-spacing: 3px !important;
+        font-size: 11px;
+    
+    }
+    .nav .links{
+        margin-left: 0 !important;
+    }
+}
+.online .box1{
+    width: 100%;
+    margin: auto;
+    margin-top: 100px !important;
+    height: 65px !important;
+   padding-top: 10px;
+    border: solid 1px rgb(179, 176, 171);
+    border-radius: 5px;
+    
+}
+.online .box1 h5{
+    font-size: 14px;
+    font-weight: bolder;
+    
+    
+}
+.online .box1 p{
+    padding-top: 4px;
+    letter-spacing: 8px;
+    font-size: 11px;
+
+}
+.nav{
+    position: absolute;
+    top: 172px;
+}
+.nav .links{
+    
+    text-decoration: none;
+    color: black;
+    padding-top: 10px;
+    padding: 10px 14px;
+    margin-left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius:5px ;
+    background-color: #e0e0e0;
+    font-size: 11px;
+    font-weight: bold;
+    height: auto;
+
+}
+.nav .links:hover{
+    color: #7e0479  ;
+}
+.nav .link{
+    color: black;
+    font-size: 14px !important;
+    font-weight: bolder !important;
+    /* border: solid 1px rgb(179, 176, 171) !important; */
+}
+.nav .link:hover{
+    color: #7e0479;
+}
+@media screen and (min-width:991px) and (max-width:1204px){
+    .nav{
+        position: absolute;
+        top: 152px !important;
+    }
+    .online .box1 p{
+        padding-top: 4px;
+        letter-spacing: 3px !important;
+        font-size: 11px;
+    
+    }
+    .nav .links{
+        margin-left: 5px !important;
+    }
+}
+.img9{
+    padding: 0 !important;
+}
+.img9 img{
+    width: 100% !important;
+}
+.nav5{
+    position: unset !important;
+}
+.tv-shows .opera .opera1{
+    margin-top: 10px;
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.tv-shows .opera .opera1 .a{
+    font-size: 14px;
+}
